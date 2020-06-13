@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-colors",
+  "version": "1.4.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmytro/tailwind-colors.git"
+  },
+  "dependencies": {
+    "tailwindcss": "1.4.6"
+  }
+}
