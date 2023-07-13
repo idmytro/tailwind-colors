@@ -11,6 +11,6 @@
     "url": "git+https://github.com/idmytro/tailwind-colors.git"
   },
   "dependencies": {
-    "tailwindcss": "1.4.6"
+    "tailwindcss": "3.3.2"
   }
 }
